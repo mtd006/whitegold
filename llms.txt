@@ -1,0 +1,37 @@
+# White Gold
+
+> White Gold is an online store for the exclusive sale of dental equipment and accessories for dental clinics.
+
+White Gold is a product of Tukaram Consultancy. The store is delivered as a single-page web application at https://whitegold.page.gd/ - every shopping, account and support section is reached from that one page, so no separate sub-page URLs exist.
+
+## Store and catalogue
+- [White Gold store](https://whitegold.page.gd/): home page with the Featured Collection, New Arrivals and the full product catalogue.
+- [All Products](https://whitegold.page.gd/): complete catalogue with keyword search across product name, description and category, plus category filter buttons.
+- [Featured Collection and New Arrivals](https://whitegold.page.gd/): curated product rails shown above the main catalogue.
+- Product quick view: each product card opens a detail panel with the product name, category, description, price, stock status and customer reviews.
+- Product images are hosted on Google Drive and are shown directly on the product cards.
+
+## Shopping cart and checkout
+- [Cart](https://whitegold.page.gd/): slide-out cart with line items, quantity control and running subtotal.
+- [Checkout](https://whitegold.page.gd/): checkout modal that captures the delivery address, applies shipping charge and tax, and shows the payable total.
+- Coupon codes, group discounts and loyalty-point discounts can be applied to an order at checkout.
+- Checkout supports UPI, net banking, cash on delivery, card payment.
+
+## Customer account
+- [My Account](https://whitegold.page.gd/): sign in or register to open the account area. Registration collects name, email, phone and password; sign-in uses email and password.
+- [Profile and Settings](https://whitegold.page.gd/): update personal details, saved delivery addresses and password.
+- [My Orders](https://whitegold.page.gd/): order history for the signed-in customer.
+- [My Wishlist](https://whitegold.page.gd/): products saved for later, available after signing in.
+- Password recovery: a six-digit OTP is emailed to the registered address to reset a forgotten password.
+
+## Rewards and support
+- [Rewards and Loyalty](https://whitegold.page.gd/): loyalty points balance, membership tiers and recent activity for the signed-in customer.
+- [Complaints and Support](https://whitegold.page.gd/): submit a complaint with the related order number and complaint type, and view previously submitted complaints.
+- [Contact Us](https://whitegold.page.gd/): contact form plus the store's published phone number and email address.
+- Newsletter: an email newsletter sign-up is available in the page footer and in the "Stay Updated" block.
+- A floating WhatsApp button opens a chat with the store when a WhatsApp link is configured.
+
+## Optional
+- [robots.txt](https://whitegold.page.gd/robots.txt): crawler rules for whitegold.page.gd.
+- [sitemap.xml](https://whitegold.page.gd/sitemap.xml): XML sitemap listing the store URL.
+- Store contact phone number and email address are published on the page itself and are not repeated here.
